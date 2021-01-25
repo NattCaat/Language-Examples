@@ -1,4 +1,4 @@
-# Language Examples of a simple calculator app
+# Language Examples of a simple calculator program
 This repo houses an example every program in every language i can use or people have submitted. Pull Requests are appreciated. 
 If you have a different way of writing the program, don't delete the existing ones, please just add a new file. 
 
