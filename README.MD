@@ -1,10 +1,15 @@
 # How to learn any programming language (or start with it)
-Many people asked me: how do i learn a programming language? 
-My answer usually is: start by reading documentation and trying to figure things out.
+This repo houses an example every program in every language i can use or people have submitted. Pull Requests are appreciated. 
+If you have a different way of writing the program, don't delete the existing ones, please just add a new file. 
 
-That approach is not always the best, so i made a small exercise that can teach the basics of pretty much every language.
+**Do not submit binaries, any PR subitting a binary will be ignored**
 
-## The Exercise
+Any file named `calc0.*` or `Calc0.*` was made by the creator of the repository. Anything with an index greater than 0 was submitted via PR.
+If you (for some reason) have a bigger project structure, put it in a folder named `calcX` where X is the index.
+
+This is also a very easy way to start learning pretty much any programming language.
+
+## Requirements
 Make a small calculator app that can handle basic functions like addition, subtraction, multiplication, division and exponentiation and has a CLI interface like this:
 
 ```none
@@ -21,7 +26,7 @@ result: {result}
 Press enter to restart...
 ```
 
-**Requirements**
+**Required**
 - It must have the above interface
 - it must use functions/methods
 - builtins are not allowed unless it is to interact with the terminal
@@ -36,4 +41,3 @@ Press enter to restart...
 - make it fancy (color, slight UI change, whatever)
 - add docstrings
 - do it in as few formatted lines as possible
-
