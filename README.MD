@@ -1,4 +1,4 @@
-# How to learn any programming language (or start with it)
+# Language Examples of a simple calculator app
 This repo houses an example every program in every language i can use or people have submitted. Pull Requests are appreciated. 
 If you have a different way of writing the program, don't delete the existing ones, please just add a new file. 
 
