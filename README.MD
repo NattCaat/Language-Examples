@@ -28,6 +28,7 @@ Press enter to restart...
 ```
 
 **Required**
+- **all comments and variable names must be in english**
 - It must have the above interface
 - it must use functions/methods
 - builtins are not allowed unless it is to interact with the terminal
