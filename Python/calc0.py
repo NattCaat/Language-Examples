@@ -80,7 +80,7 @@ def main():
 
 
         print(
-            f'\n{mode[1]} - Please choose two numbers a and b to calculate "a{mode[0]}b"'
+            f'\nYou chose: {mode[1]}\nPlease choose two numbers a and b to calculate "a{mode[0]}b"'
         )  # print the prompt message
         try:
             # get all inputs

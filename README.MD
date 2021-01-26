@@ -19,7 +19,8 @@ choose a function
 2 - Subtract   4 - Divide
 >>> 5
 
-{function} - Please choose two numbers a and b to calculate {expression}
+You chose: {function}
+Please choose two numbers a and b to calculate {expression}
 a: {num_a}
 b: {num_b}
 result: {result}

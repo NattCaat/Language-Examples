@@ -90,7 +90,7 @@ int main(void)
         system("clear");
         printf("\e[4m\e[1mC\e[0m\e[4m CLI calc V1.0\e[0m\n");
         printf("choose a function\n");
-        printf("\e[38;5;40m1 - Add\e[0m        \e[38;5;28m3 - Multiply\e[0m   \e[38;5;58m5 - Exponentiation\e[0m\n");
+        printf("\e[38;5;40m1 - Addition\e[0m   \e[38;5;28m3 - Multipl\e[0m   \e[38;5;58m5 - Exponentiation\e[0m\n");
         printf("\e[38;5;4m2 - Subtract\e[0m   \e[38;5;6m4 - Divide\e[0m\n");
 
         // try until they get it right

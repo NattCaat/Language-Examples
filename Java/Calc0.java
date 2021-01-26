@@ -12,7 +12,7 @@ class Calc {
         "choose a function\n" + 
         "1 - Add        3 - Multiply   5 - Exponentiation\n" + 
         "2 - Subtract   4 - Divide     6 - quit";
-    private static String prompt = "You chose: %s%nPlease choose two numbers, 'a' and 'b' such that 'a%sb'%n";
+    private static String prompt = "%nYou chose: %s%nPlease choose two numbers, 'a' and 'b' such that 'a%sb'%n";
     private static String clsCmd = System.getProperty("os.name").contains("Windows") ? "cmd /c cls" : "clear";
     private static String nanErr = "[Error]: Not a Number. Please only input numbers";
     private static String internErr = "[Error]: Internal error. Sorry, but no one can do anything about this one.";
